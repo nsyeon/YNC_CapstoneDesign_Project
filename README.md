@@ -1,6 +1,11 @@
 # YNC_CapstoneDesign_Project
 
-**스마트 헌 옷 수거 관리함** 프로젝트입니다.
+영남이공대학교 3학년 1학기 캡스톤디자인 기말 프로젝트인, **스마트 헌 옷 수거 관리함** 프로젝트입니다.
+
+## 개발 환경
+- Developer tool : Visual Studio Code
+- Language : Python, HTML
+- OS : Windows10
 
 ## 소프트웨어
 - ‘기부’, ‘태그 없음’, ‘헌 옷 수거’ 버튼이 있는 홈페이지 구축 
